@@ -1,4 +1,4 @@
-print("Welcome to the Commons Game!")
+print("Digital Commons")
 
 trees = 20
 growthRate = 1.4
